@@ -12,7 +12,8 @@
 // Shunt Resistor Sizing: 
 //    Seawater (~10,000uS/cm to ~50,000uS/cm) --> 10 Ohm
 //    Brackish (~1,000uS/cm to ~10,000uS/cm) --> 100 Ohm
-//    Fresh (~100uS/cm to ~1,000uS/cm) --> 
+//    Fresh (~100uS/cm to ~1,000uS/cm) --> 1,000 Ohm
+//    Distilled (~1uS/cm to ~100uS/cm) --> 10,000 Ohm
 
 
 
