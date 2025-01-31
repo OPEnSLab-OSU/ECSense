@@ -47,7 +47,7 @@
 
    ![image](https://github.com/user-attachments/assets/a7eae75a-f29b-45e6-95fd-16a0f3e925cd)
 
-4) Under "PCB Specification Selection" click "+Add Gerber File" and upload "Gerber.zip" from the repository. After the gerber files archive has been uploaded, enter the desired quantity under "Quantity (single)." This quantity will need to match the quantity of assembled units, which will be addressed in a later step.
+4) Under "PCB Specification Selection" click "+Add Gerber File" and upload "Gerber.zip" from the repository. After the gerber files archive has been uploaded, enter the desired quantity under "Quantity (single)." This quantity will need to match the quantity of assembled units, which will be addressed in a later step. Default options under "PCB Specification Selection" are acceptable, but you may tweak these options as appropriate for your application (for example, changing the color of the soldermask or selecting a different surface finish material). 
    
    ![image](https://github.com/user-attachments/assets/6b05176c-7f99-48a6-bf3a-77e95d7babb7)
 
@@ -59,9 +59,13 @@
 
    ![image](https://github.com/user-attachments/assets/0f1c45ca-edb3-4a12-90db-bde9cfea8b38)
 
-7) Make sure radio buttons under "Pay attention" are both marked as follows ("Contains sensitive components/parts" --> YES, "Do you accept alternative/substitutes made in China?" --> NO).
+7) Make sure radio buttons under "Pay attention" are both marked as follows ("Contains sensitive components/parts" --> NO, "Do you accept alternative/substitutes made in China?" --> NO). All fields under "Other Parameters" may be ignored.
 
+   ![image](https://github.com/user-attachments/assets/65e820f1-8e95-4512-8c00-e5db3d77e560)
 
+8) (Optional) Under "Customized Services and Advanced Options" you have the option to have PCBWay conformally coat your boards. You may select this option if appropriate for your application.
 
-8) 
+   ![image](https://github.com/user-attachments/assets/67ef92c0-e922-4b15-8466-451e568010b8)
+
+9)  
 
