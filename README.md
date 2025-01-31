@@ -23,6 +23,8 @@
 
 ### Instructions for Using "EC Sense:"
 
+"EC Sense" is designed to be used as a shield for the Adafruit Feather family of microprocessor boards. We recommend using Adafruit Feather M0 variants (https://www.adafruit.com/product/2772 (basic), https://www.adafruit.com/product/3010 (WiFi), and others) paired with an OPEnS Hypnos (https://github.com/OPEnSLab-OSU/OPEnS-Hypnos) for power management, SD card data logging, and real time clock (RTC) functionality. Alternatively, the Adafruit Feather M0 Adalogger (https://www.adafruit.com/product/2796) paired with an Adalogger FeatherWing - RTC + SD Add-on (https://www.adafruit.com/product/2922) could be used to make a cost-effective datalogger for "EC Sense" using only commercially available boards. 
+
 <hr>
 
 ### Technical Documentation:
