@@ -67,5 +67,15 @@
 
    ![image](https://github.com/user-attachments/assets/67ef92c0-e922-4b15-8466-451e568010b8)
 
-9)  
+9)  Click "Save to Cart" and ensure you agree with the terms of service.
+
+10)  Once in your shopping cart, you will need to upload the Bill-of-Materials (BOM) and Pick-and-Place (PnP) files. Extract "BOM.csv" and "PnP.csv" from the downloaded repository files, and upload both of them to your PCBWay order by clicking the "Add File" button
+
+   ![image](https://github.com/user-attachments/assets/d8fb4d95-740f-4daa-be2d-a14101f33818)
+
+11)  Upload "BOM.csv" to "Parts List (BOM) Upload" and "PnP.csv" to "Upload Centroid File." Then click "Submit Order Now."
+
+   ![image](https://github.com/user-attachments/assets/c3300691-df6e-4d2d-aebc-3cb2abbbf53e)
+
+12)  PCBWay will then review the order and begin manufacturing. You will receive a final quote from PCBWay via email once PCBWay has reviewed the assembly order for issues. The lead time is typically 3-6 weeks depending on quantity, component availability, holidays in China, and other factors. The order should pass right through PCBWay's design review process. Should you encounter issues with your order approval, contact Dr. Chet Udell (udellc@oregonstate.edu) for guidance. Enjoy using EC Sense!
 
