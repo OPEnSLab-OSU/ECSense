@@ -12,12 +12,12 @@
 
 ### Breakdown of Repository Contents:
 
-1) "ADC_test.ino" --> 
-2) "BOM.csv"
-3) "EC Sense - SmartRock.f3z"
-4) "EC Sense - SmartRock (Schematic).pdf"
-5) "Gerber.zip"
-6) "PnP.csv"
+1) "ADC_test.ino" --> Script provided for using "EC Sense" (requires Arduino IDE with Adafruit_ADS1115 library installed as a dependency)
+2) "BOM.csv" --> Bill of materials file (to be uploaded to PCBWay)
+4) "EC Sense - SmartRock.f3z" --> Design files for "EC Sense" (requires Autodesk Fusion)
+5) "EC Sense - SmartRock (Schematic).pdf" --> PDF schematic of "EC Sense" design
+6) "Gerber.zip" --> PCB manufacturing files (to be uploaded to PCBWay)
+7) "PnP.csv" --> Pick and place file for PCB manufacturing (to be uploaded to PCBWay)
    
 <hr>
 
