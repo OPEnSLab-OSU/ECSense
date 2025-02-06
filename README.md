@@ -12,7 +12,7 @@
 
 ### Breakdown of Repository Contents:
 
-1) "ADC_test.ino" --> Script provided for using "EC Sense" (requires Arduino IDE with Adafruit_ADS1115 library installed as a dependency)
+1) "ADC_test.ino" --> Script provided for using "EC Sense" (requires Arduino IDE with Adafruit_ADS1X15 library installed as a dependency)
 2) "BOM.csv" --> Bill of materials file (to be uploaded to PCBWay)
 4) "EC Sense - SmartRock.f3z" --> Design files for "EC Sense" (requires Autodesk Fusion)
 5) "EC Sense - SmartRock (Schematic).pdf" --> PDF schematic of "EC Sense" design
@@ -25,12 +25,25 @@
 
 "EC Sense" is designed to be used as a shield for the Adafruit Feather family of microprocessor boards. We recommend using "Adafruit Feather M0" variants (https://www.adafruit.com/product/2772 (basic), https://www.adafruit.com/product/3010 (WiFi), and others) paired with an "OPEnS Hypnos" (https://github.com/OPEnSLab-OSU/OPEnS-Hypnos) for power management, SD card data logging, and real time clock (RTC) functionality. Alternatively, the "Adafruit Feather M0 Adalogger" (https://www.adafruit.com/product/2796) paired with an "Adalogger FeatherWing - RTC + SD Add-on" (https://www.adafruit.com/product/2922) could be used to make a cost-effective datalogger for "EC Sense" using only commercially available boards. 
 
+#### Prerequisites:
+1) Install the latest version of "Arduino IDE."
+2) Install "Adafruit_ADS1X15" dependent library using the Arduino IDE library manager.
+3) Extract "ADC_test.ino" from the repository files.
+4) If using "EC Sense" with an Adafruit Feather M0 board, you will need to solder two rows of header pins to both "EC Sense" and the Adafruit Feather M0.
+5) Procure desired electrode array and ensure an electrical connection is made between it and "EC Sense" (see "wiring diagram"). 
+
+#### Setup:
+1) 
+
 
 
 <hr>
 
 ### Technical Documentation:
 
+#### Results - 
+
+#### Wiring Diagram - 
 #### Specifications Table - 
 #### "EC Sense" Schematic - 
 #### Simulation (LT Spice) - 
