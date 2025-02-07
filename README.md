@@ -1,6 +1,6 @@
 # ECSense
 
-"EC Sense" is intended to be used as a cost-effective four-wire electrical conductivity meter for use in water applications. 
+"EC Sense" is a cost-effective four-wire electrical conductivity meter for use in applications measuring the conductivity of liquids.
 
 ## Documentation Sections:
 1) Breakdown of Repository Contents.
@@ -42,6 +42,10 @@
 ### Technical Documentation:
 
 #### Results - 
+
+#### Pinout Diagram - 
+
+<img src="https://github.com/user-attachments/assets/3911e0ac-5d57-4b2c-bc99-9121f4ba680d" width="30%" />
 
 #### Wiring Diagram - 
 #### Specifications Table - 
